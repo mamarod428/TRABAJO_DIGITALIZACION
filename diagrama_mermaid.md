@@ -1,7 +1,5 @@
 ## 3. Estructura IT/OT y Convergencia (Criterio 1b)
 
-*(Nota: Aquí se visualizará el diagrama Mermaid que ya has generado. Asegúrate de que el archivo `diagrama.png` esté en tu repositorio).*
-
 ![Diagrama de Arquitectura IT/OT](diagrama.png)
 
 ### Análisis de la Relación IT/OT
