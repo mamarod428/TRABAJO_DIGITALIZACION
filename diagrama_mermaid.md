@@ -1,4 +1,4 @@
-## 3. Estructura IT/OT y Convergencia
+## Estructura IT/OT y Convergencia
 
 ![Diagrama de Arquitectura IT/OT](diagrama.png)
 
