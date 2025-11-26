@@ -1,4 +1,4 @@
-## 5. Reflexión: El Impacto de la IA Presente y Futuro
+## Reflexión: El Impacto de la IA Presente y Futuro
 
 ### Importancia Presente y Futura
 En el **presente**, la IA es una herramienta de supervivencia operativa: permite mantener márgenes en un entorno de inflación de costes y escasez de mano de obra. En el **futuro**, la IA será generativa y creativa: diseñará nuevas recetas basándose en datos moleculares de sabor y preferencias de consumidores, y gestionará cadenas de suministro autónomas y circulares.
