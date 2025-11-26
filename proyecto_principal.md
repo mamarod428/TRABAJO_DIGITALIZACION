@@ -39,9 +39,7 @@ La empresa sufre de una desconexión clásica: el departamento de ventas cierra 
 
 ---
 
-## 3. Estructura IT/OT y Convergencia (Criterio 1b)
-
-*(Nota: Aquí se visualizará el diagrama Mermaid que ya has generado. Asegúrate de que el archivo `diagrama.png` esté en tu repositorio).*
+## 3. Estructura IT/OT y Convergencia
 
 ![Diagrama de Arquitectura IT/OT](diagrama.png)
 
