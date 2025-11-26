@@ -1,4 +1,4 @@
-## 2. Selección y Justificación de Tecnologías
+## Selección y Justificación de Tecnologías
 *Se han seleccionado tecnologías maduras que permiten una diferenciación clara entre los entornos de Operación (OT) y Tecnologías de la Información (IT).*
 
 ### A. Digitalización en Planta (Ámbito OT - Operational Technology)
