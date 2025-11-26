@@ -17,19 +17,19 @@ El proyecto cubre desde el análisis de la empresa y la selección de tecnologí
 Navega a través de los diferentes módulos del proyecto haciendo clic en los enlaces a continuación:
 
 ### [1. Ficha de la Empresa y Contexto ](ficha_empresa.md)
-* **Contenido:** Perfil corporativo de AgroTech Solutions, características del sector y definición del problema ("Pain Point") a resolver.
+* Perfil corporativo de AgroTech Solutions, características del sector y definición del problema ("Pain Point") a resolver.
 
 ### [2. Selección de Tecnologías (IT/OT) ](listado_tecnologias.md)
-* **Contenido:** Análisis del Criterio 1e. Justificación detallada de las tecnologías seleccionadas para Planta (Visión Artificial, IIoT) y Negocio (Forecasting, RPA).
+* Justificación detallada de las tecnologías seleccionadas para Planta (Visión Artificial, IIoT) y Negocio (Forecasting, RPA).
 
 ### [3. Diagrama de Arquitectura y Estructura ](diagrama_mermaid.md)
-* **Contenido:** Análisis del Criterio 1b. Visualización gráfica del flujo de datos y explicación de la convergencia IT/OT y el impacto organizacional.
+* Visualización gráfica del flujo de datos y explicación de la convergencia IT/OT y el impacto organizacional.
 
 ### [4. Propuesta de Valor y Transformación Digital ](propuesta_transformacion_digital.md)
-* **Contenido:** Análisis del Criterio 1g. Detalle de las ventajas operativas (Eficiencia, JIT) y competitivas (Trazabilidad, Agilidad) de la propuesta.
+* Detalle de las ventajas operativas (Eficiencia, JIT) y competitivas (Trazabilidad, Agilidad) de la propuesta.
 
 ### [5. Reflexión Final: Impacto de la IA ](reflexion_final.md)
-* **Contenido:** Análisis de los Criterios 4c, 4d y 4f. Visión sobre la importancia presente y futura de la IA, comparativa con otros sectores (Automoción/Banca) y el futuro de la seguridad alimentaria.
+* Visión sobre la importancia presente y futura de la IA, comparativa con otros sectores (Automoción/Banca) y el futuro de la seguridad alimentaria.
 
 ---
 
