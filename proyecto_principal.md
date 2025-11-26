@@ -33,9 +33,7 @@ Navega a través de los diferentes módulos del proyecto haciendo clic en los en
 
 ---
 
-> **Nota:** Todos los documentos, diagramas y justificaciones han sido elaborados siguiendo los criterios de excelencia de la rúbrica de evaluación.
-
-*Proyecto realizado por: [Tu Nombre]*
+*Proyecto realizado por: [Manuel Amado, Pablo Reyes, Fran Falcón y Daniel Espinosa]*
 *Fecha: Noviembre 2025*
 
 # Proyecto 1: Diseño de la Transformación Digital con IA en "AgroTech Solutions"
