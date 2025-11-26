@@ -1,4 +1,4 @@
-## 4. Propuesta de Transformación Digital de Extremo a Extremo (Criterio 1g)
+## 4. Propuesta de Transformación Digital de Extremo a Extremo
 
 Esta propuesta integra Planta y Negocio para crear una cadena de valor inteligente.
 
